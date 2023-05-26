@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "date": "07/03/2023",
+      "title": "TECHY STAR",
+      "description": "This is the first react project based on react-basics. In this I learn like how to create single page application by using reactJS.",
+      "url": "https://techystar-blush.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+
+    {
+      "date": "11/03/2023",
+      "title": "VIDEO HUB",
+      "description": "This is the second react project in this I use CSS frameworks like (ChakraUI) with the help of this we have a feature that we can view on dark mode and night mode.",
+      "url": "https://react-video-hub-peach.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "20/03/2023",
+      "title": "XCRYPTO",
+      "description": "This is the third react project based on Crypto currency. In this I uses an API which fetches the information about coins and I use ChartJS which is used to display the market chart of coin.",
+      "url": "https://xcrypto-delta.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "date": "27/03/2023",
+      "title": "REACT CART",
+      "description": "This is the fourth react project based on shopping-cart. In this I uses redux-tool-kit for state mangement and to create store. It was generally used in eccomerce application. ",
+      "url": "https://react-cart-three-liard.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "10/04/2023",
+      "title": "PORTFOLIO",
+      "description": "This is fifth react-project it is personal-portfolio. In this I uses a firebase in contact form and the resultant data of the contact form will store in firebase.",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}

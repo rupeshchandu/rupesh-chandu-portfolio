@@ -187,6 +187,10 @@
 
 @media screen and (max-width:600px){
 
+    .navbtn{
+        right: 1rem;
+    }
+
     #home{
         height: unset;
         flex-direction: column-reverse;
